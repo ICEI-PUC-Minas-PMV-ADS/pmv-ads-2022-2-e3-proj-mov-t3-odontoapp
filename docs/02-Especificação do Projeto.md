@@ -108,6 +108,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
+![Diagrama_caso_uso](https://user-images.githubusercontent.com/69054000/189424154-cd27bae2-40ac-4e21-bb91-c0ffb6f6e177.png)
 
 
 # Matriz de Rastreabilidade
