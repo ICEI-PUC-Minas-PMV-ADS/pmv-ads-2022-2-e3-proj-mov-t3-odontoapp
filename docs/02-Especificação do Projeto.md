@@ -16,7 +16,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 | Rodrigo Paiva        |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](https://user-images.githubusercontent.com/69054000/189426437-17f0a25e-b6f1-4074-bcd5-12f9161e5b1d.png)|**Idade:** 19  anos - **Ocupação:** Estudante  |Aplicativos: TikTok, Facebook, Linkedin|
+|![image](https://user-images.githubusercontent.com/69054000/189427306-bc8fe229-804d-47c8-b0a5-5c707db43b01.png)|**Idade:** 19  anos - **Ocupação:** Estudante  |Aplicativos: TikTok, Facebook, Linkedin|
 |**Motivações:**  Encontrar uma forma de marcar uma consulta de forma fácil e que seja notificado quando estiver próximo do atendimento. |**Frustrações:** 	Por vezes na correria do dia a dia, passa batido a data visita de rotina ao dentista e isso afeta a saúde bucal.  |**Hobbies, História:** 		Gravar vídeos para redes sociais, tirar fotos e viajar.| 
 
 
