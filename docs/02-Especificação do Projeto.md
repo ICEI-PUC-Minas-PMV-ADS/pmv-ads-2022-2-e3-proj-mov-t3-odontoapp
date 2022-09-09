@@ -9,19 +9,16 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |![image](https://user-images.githubusercontent.com/69054000/189426437-17f0a25e-b6f1-4074-bcd5-12f9161e5b1d.png)|**Idade:** 39  anos - **Ocupação:** Produtora de Eventos  |Aplicativos: Instagram, Facebook, Linkedin, Aplicativos de bancos.|
 |**Motivações:**  Controle dos agendamentos das minhas consultas, a fim de ter sob controle a minha saúde bucal. |**Frustrações:** Não ter encontrado ainda um app que atenda as minhas necessidades.  |**Hobbies, História:** 	Viajar, ver filmes, escutar músicas.| 
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| Marcela Silva        |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![image](https://user-images.githubusercontent.com/69054000/189426814-cb1b3661-cb93-4606-adf2-b33295969d94.png)|**Idade:** 26  anos - **Ocupação:** Dentista na clinica  |Aplicativos: Instagram, Linkedin|
+|**Motivações:**  Manter uma agenda organizada, controlando os horários e datas das consultas, podendo entrar em contato com os clientes para ajustar ou remarcar. |**Frustrações:** Atualmente o controle é feito através de agenda em papel, o que limita o controle e torna mais passível de erros.  |**Hobbies, História:** 	Formada desde os 23 anos, com seus 3 anos de experiência na área já esqueceu algumas vezes de uma consulta por falta de uma agenda automatizada.| 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| Rodrigo Paiva        |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![image](https://user-images.githubusercontent.com/69054000/189426437-17f0a25e-b6f1-4074-bcd5-12f9161e5b1d.png)|**Idade:** 19  anos - **Ocupação:** Estudante  |Aplicativos: TikTok, Facebook, Linkedin|
+|**Motivações:**  Encontrar uma forma de marcar uma consulta de forma fácil e que seja notificado quando estiver próximo do atendimento. |**Frustrações:** 	Por vezes na correria do dia a dia, passa batido a data visita de rotina ao dentista e isso afeta a saúde bucal.  |**Hobbies, História:** 		Gravar vídeos para redes sociais, tirar fotos e viajar.| 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
