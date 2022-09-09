@@ -4,6 +4,11 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
+|![image](https://user-images.githubusercontent.com/69054000/189426198-954c4d95-1e6b-4a37-85a9-5eccc62daae4.png)| <em>Mariana Pimentel</em>|
+||<p><em>Idade:</em> 39</p><p><em>Ocupação:</em> Produtora de Eventos</p>|<p><em>Aplicativos:</em></p><p> ● Intagram</p><p> ● LinkedIn</p><p> ● Facebook</p>|
+|<p><em>Motivações:</em></p><p> ●	Controle dos agendamentos das minhas consultas, a fim de ter sob controle a minha saúde bucal.</p>|<p><em>Frustações:</em></p><p> ●	Não ter encontrado ainda um app que atenda as minhas necessidades.</p>|<p><em>Hobbies/História:</em></p><p> ●	Viajar, ver filmes, escutar músicas.</p>|
+
+
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
