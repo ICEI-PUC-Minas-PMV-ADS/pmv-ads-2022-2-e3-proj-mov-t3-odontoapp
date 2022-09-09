@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# OdontoApp - Cliníca OdontoLife
 
-`CURSO`
+`Análise e desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`2º semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral do trabalho é a criação de uma aplicação que possibilite o registro, a marcação, o cancelamento, o esclarecimento de dúvidas e o controle de clientes, datas e horários disponíveis para o atendimento de uma clínica especifica, no trabalho desenvolvida, a clínica fictícia OdontoLife.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Bruno Junqueira Benetolo
+* Filipe Marques
+* Gabriel Oliveira
+* Mariana Pimentel
+* Victor Bruno Kulessa
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino De Lima
 
 ## Instruções de utilização
 

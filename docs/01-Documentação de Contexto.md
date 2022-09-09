@@ -1,46 +1,30 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Existe uma necessidade atual de serviços odontológicos, o que evidencia a necessidade de uma melhor organização nos ambientes de consulta. Inúmeras clínicas perdem clientes e serviços por falta de organização na agenda, vários cirurgiões-dentistas queixam-se de ter uma agenda inadequada, não conseguem maximizar seu tempo devido à má qualidade do agendamento, e até mesmo deixam de prestar um serviço de qualidade devido a marcações imprecisas das consultas.
+O site https://mistero.com.br/reclamacoes-clientes-saude/ afirma. 46% dos pacientes que visitam clínicas queixam-se de atendimento lento, com 1/3 dessas queixas atribuíveis a erros de agendamento. É importante observar que um erro de agendamento pode levar a outros fatores de insatisfação do cliente.
+Dessa forma, a clínica luta com a insatisfação do cliente, que pode optar por um concorrente, com o tempo do profissional desperdiçado ao não realizar o atendimento do paciente, bem como com as consequências financeiras decorrentes da falta de organização da agenda.
+Nesse sentido, é primordial contar com uma ferramenta que possa auxiliar os atendentes na marcação, cancelamento, informações e relação de pacientes que necessitam do serviço. Portanto, é essencial a toda clínica que deseja entregar qualidade ao seu cliente uma aplicação que permita esse aprimoramento no atendimento.
+    
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Como mencionado, a pesquisa atual visa encontrar soluções para problemas de agendamento para clínicas odontológicas. O objetivo do desenvolvimento deste aplicativo é melhorar a vida dos clientes e colaboradores da clínica OdontoLife, oferecendo atendimento de qualidade e organização na marcação de consultas e demais serviços.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do trabalho é a criação de uma aplicação que possibilite o registro, a marcação, o cancelamento, o esclarecimento de dúvidas e o controle de clientes, datas e horários disponíveis para o atendimento de uma clínica especifica, no trabalho desenvolvida, a clínica fictícia OdontoLife.
+Os objetivos específicos são:
+-	Permitir o cadastros de clientes e colaboradores
+-	Permitir marcação de consultas
+-	Permitir o cancelamento de consultas 
+-	Disponibilizar horários e datas
+-	Disponibilizar esclarecimento de dúvidas.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A finalidade do aplicativo é facilitar o dia a dia das clínicas odontológicas, trazendo organização, dinamismo e eficiência na prestação de serviços pela empresa. Ao permitir a organização da agenda e dos registros, a clínica ganha agilidade, desempenho e otimização de suas ofertas. Como resultado, o cliente e os funcionários estarão satisfeitos com a melhoria do serviço. Em geral, os clientes valorizam mais o atendimento organizado e maduro, o que confere mais autoridade e credibilidade ao negócio que fornece essas qualidades.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O projeto visa como público alvo todas as pessoas que necessitam de um controle de seus agendamento para consulta odontológica, tendo seu foco principalmente em jovens e adultos entre 18-60 anos, com facilidade de acesso em dispositivos móveis ou computadores. Podendo futuramente ser implementada novas funcionalidades que tragam ferramentas úteis às clínicas odontológicas.
