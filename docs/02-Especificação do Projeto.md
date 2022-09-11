@@ -52,7 +52,7 @@ Como oportunidade de melhoria podemos destacar a perda de tempo e custos por par
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1]([img/02-bpmn-proc1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/blob/main/docs/img/Processo%201.png))
 
 ### Processo 2 – NOME DO PROCESSO
 
