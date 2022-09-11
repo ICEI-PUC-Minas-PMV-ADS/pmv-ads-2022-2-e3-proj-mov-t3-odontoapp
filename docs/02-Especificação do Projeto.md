@@ -48,17 +48,13 @@ A aplicação disponibilizará a possibilidade de fazer cadastros de clientes e 
 Como oportunidade de melhoria podemos destacar a perda de tempo e custos por parte dos envolvidos no processo.
 
 
-### Processo 1 – NOME DO PROCESSO
+### Processo – AGENDAMENTO DE CONSULTA
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+A seguir apresentamos o modelo de processo de agendamento de consulta, seguindo o padrão BPMN. 
+
+
 
 ![Processo 1]([img/02-bpmn-proc1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/blob/main/docs/img/Processo%201.png))
-
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
 
