@@ -52,9 +52,7 @@ Como oportunidade de melhoria podemos destacar a perda de tempo e custos por par
 
 A seguir apresentamos o modelo de processo de agendamento de consulta, seguindo o padrão BPMN. 
 
-
-
-![Processo 1]([img/02-bpmn-proc1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/blob/main/docs/img/Processo%201.png))
+![Processo 1](https://user-images.githubusercontent.com/90862748/189537840-b91f62fa-b0b4-470f-b594-42eeb5e509a0.png)
 
 ## Indicadores de Desempenho
 
