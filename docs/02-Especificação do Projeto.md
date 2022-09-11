@@ -136,10 +136,10 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
 
+![Captura de tela 2022-09-11 194630](https://user-images.githubusercontent.com/90941036/189552249-f8c07028-2b91-4ba1-82cf-c09479df6e49.png)
 
-[DIAGRAMA odonto.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/files/9543635/DIAGRAMA.odonto.pdf)
 
-[● Aplicativo odontológico - Asana.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/blob/main/docs/img/%E2%97%8F%20Aplicativo%20odontol%C3%B3gico%20-%20Asana.pdf)
+![cronograma](https://user-images.githubusercontent.com/90941036/189552251-5cc83c04-e95d-448c-9f88-4f5280e0543c.png)
 
 
 
