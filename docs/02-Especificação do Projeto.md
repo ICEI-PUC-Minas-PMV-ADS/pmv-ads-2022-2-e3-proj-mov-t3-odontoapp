@@ -35,7 +35,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Como mencionado anteriormente existe a necessidade de uma melhor organização nos ambientes de consulta, afim de que as consultas não sejam perdidas resultando em economia de tempo e custos tanto dos profissionais que prestam o serviço quanto dos clientes que procuram por eles. Entendemos que isso por se só viabiliza a proposta da nossa aplicação. Atualmente as consultas são marcadas via telefone ou troca de whatsapp, gerando a falta de controle dos clientes em assumir os compromissos agendados. 
 
 ### Descrição Geral da Proposta
 
