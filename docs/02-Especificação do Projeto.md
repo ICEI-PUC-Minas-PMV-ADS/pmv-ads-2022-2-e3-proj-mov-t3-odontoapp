@@ -111,14 +111,21 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+|         | RF-01 | RF-02 | RF-03 |RF-04|RF-05|RF-06|RF-07|RF-08|RNF-01|RNF-02|RNF-03|RNF-04|RNF-05|
+| ------ | ------ |--------|-------|-------|------|-----|-----|----|-----|----|----|---|------|
+|RF-01   |    x  |        |       |    x     || x ||x|||||x
+|RF-02   |      |  x   |   x     |        ||x||||||||
+|RF-03   |         | x       |  x    |        |x|||||||||
+|RF-04|x|||x||x||x|||||x|
+|RF-05   |         |    x     |   x    |       |  x   |     |   x  |      |      |        |       |      |      |
+|RF-06   | x          |         |         | x       |       |   x   |      |   x  |     |     |    |    |   x |
+|RF-07   |            |         |        |        |  x   |     |  |       |     |      |      |      |   x |    |
+|RF-08| x |   |    |   x   |       |x     |      |x       |   |     |     |    |  x   |
+|RNF-01|||||||||x|||x||
+|RNF-02||||||||||x|x|||||
+RNF-03||||||||||x|x|||||
+RNF-04|||||||||x|||x|||||
+RNF-05|x||x|x|x||x||||||x|
 
 
 # Gerenciamento de Projeto
