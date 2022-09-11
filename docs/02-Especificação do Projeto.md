@@ -35,11 +35,18 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 ### Análise da Situação Atual
 
-Como mencionado anteriormente existe a necessidade de uma melhor organização nos ambientes de consulta, afim de que as consultas não sejam perdidas resultando em economia de tempo e custos tanto dos profissionais que prestam o serviço quanto dos clientes que procuram por eles. Entendemos que isso por se só viabiliza a proposta da nossa aplicação. Atualmente as consultas são marcadas via telefone ou troca de whatsapp, gerando a falta de controle dos clientes em assumir os compromissos agendados. 
+Como mencionado anteriormente existe a necessidade de uma melhor organização nos ambientes de consulta, afim de que as consultas não sejam perdidas resultando em economia de tempo e custos tanto dos profissionais que prestam o serviço quanto dos clientes que procuram por eles. 
+
+Entendemos que isso por se só viabiliza a proposta da nossa aplicação. Atualmente as consultas são marcadas via telefone ou troca de whatsapp, gerando a falta de controle dos clientes em assumir os compromissos agendados. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A proposta da nossa aplicação visa oferecer um maior controle e organização para os envolvidos na marcação de uma consulta, colaboradores e cliente. 
+
+A aplicação disponibilizará a possibilidade de fazer cadastros de clientes e colaboradores, marcação de consultas e seu cancelamento, calendário com disponibilidade de datas e horários, e esclarecimento de dúvidas.
+
+Como oportunidade de melhoria podemos destacar a perda de tempo e custos por parte dos envolvidos no processo.
+
 
 ### Processo 1 – NOME DO PROCESSO
 
