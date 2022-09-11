@@ -56,28 +56,7 @@ A seguir apresentamos o modelo de processo de agendamento de consulta, seguindo 
 
 ## Indicadores de Desempenho
 
-#Indicador         #Objetivos             #Descrição            #Cálculo            #Fonte dados                  #Perspectiva 
-
-Eficácia           Mensurar satisfação    % de                   0 a 5              Tabela de reclamações          Clientes
-                   do cliente             nota do app
-
- 
-Qualidade          Melhorar a             Medir a % de
-                   prestação de           requisições            *100*              Tabela de solicitações          Processos internos
-                   serviços               atendidas no mês       
-                   
-  
-Produtividade      Aumentar a             Medir o tempo          60 min             Tabela de pedidos               Processos internos
-                   velocidade de          gasto para 
-                   entrega da correção    solução do problema
-                   
-Estratégia         Aperfeiçoar a          % de uso do            *100*               Tabela de usuários              Clientes
-                   estratégia do          sistema
-                   negócio 
-                   
-Crescimento        Mensurar o             Medir feedbacks        Feedbacks           Tabela de pedidos               Clientes 
-                   crescimento de         de clientes para
-                   funcionalidades        aperfeiçoar o sistema                                    
+![Sem Título-1](https://user-images.githubusercontent.com/62525275/189546406-3b1e374b-1b94-4c15-8192-f1747f7d1d3e.jpg)                            
                                           
 
 ## Requisitos
