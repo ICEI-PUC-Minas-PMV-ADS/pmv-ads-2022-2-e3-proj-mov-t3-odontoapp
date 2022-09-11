@@ -139,7 +139,7 @@ Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o ger
 
 [DIAGRAMA odonto.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/files/9543635/DIAGRAMA.odonto.pdf)
 
-[● Aplicativo odontológico - Asana.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/files/9543639/Aplicativo.odontologico.-.Asana.pdf)
+[● Aplicativo odontológico - Asana.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/blob/main/docs/img/%E2%97%8F%20Aplicativo%20odontol%C3%B3gico%20-%20Asana.pdf)
 
 
 
