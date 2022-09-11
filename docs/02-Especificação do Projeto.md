@@ -56,12 +56,29 @@ A seguir apresentamos o modelo de processo de agendamento de consulta, seguindo 
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+#Indicador         #Objetivos             #Descrição            #Cálculo            #Fonte dados                  #Perspectiva 
 
-Usar o seguinte modelo: 
+Eficácia           Mensurar satisfação    % de                   0 a 5              Tabela de reclamações          Clientes
+                   do cliente             nota do app
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+ 
+Qualidade          Melhorar a             Medir a % de
+                   prestação de           requisições            *100*              Tabela de solicitações          Processos internos
+                   serviços               atendidas no mês       
+                   
+  
+Produtividade      Aumentar a             Medir o tempo          60 min             Tabela de pedidos               Processos internos
+                   velocidade de          gasto para 
+                   entrega da correção    solução do problema
+                   
+Estratégia         Aperfeiçoar a          % de uso do            *100*               Tabela de usuários              Clientes
+                   estratégia do          sistema
+                   negócio 
+                   
+Crescimento        Mensurar o             Medir feedbacks        Feedbacks           Tabela de pedidos               Clientes 
+                   crescimento de         de clientes para
+                   funcionalidades        aperfeiçoar o sistema                                    
+                                          
 
 ## Requisitos
 
