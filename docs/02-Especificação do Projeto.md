@@ -76,7 +76,13 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-004| Médicos poderão fazer cadastro de clientes, procedimentos e consultas.  | ALTA |
 |RF-005| Clientes terão acesso a agenda disponível e poderá marcar uma consulta.  | ALTA |
 |RF-006| O sistema deve permitir que o usuário/médico altere, exclua ou atualize os dados de sua consulta/cadastro;  | ALTA |
+<<<<<<< Updated upstream
 |RF-007| Se o usuário não está em dia com os seus compromissos:<p>  1. O sistema exibe mensagem informando ao usuário sobre o atraso de sua consulta e disponibiliza a opção para um novo agendamento de consulta;</p><p>   2. o atraso de sua consulta e disponibiliza a opção para agendamento de consulta em outra data disponível;</p>| MÉDIA |
+=======
+|RF-007| Se o usuário não está em dia com os seus compromissos:| MÉDIA |
+|      |  1. O sistema exibe mensagem informando ao usuário sobre o atraso de sua consulta e disponibiliza a opção para um novo agendamento de consulta;|
+|      |  2. o atraso de sua consulta e disponibiliza a opção para agendamento de consulta em outra data disponível;|  
+>>>>>>> Stashed changes
 |RF-008| O usuário atualiza o histórico após a regularização de suas consultas  | MÉDIA |
 
 
