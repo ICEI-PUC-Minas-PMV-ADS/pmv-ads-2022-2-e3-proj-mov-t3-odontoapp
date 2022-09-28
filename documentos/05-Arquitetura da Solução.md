@@ -10,7 +10,8 @@ Apresentaremos a seguir os detalhes técnicos que tratam dos componentes que faz
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
+![Odontoapp](https://user-images.githubusercontent.com/90941036/192902397-ce24a2d1-2975-43b6-9d98-adbaa4219522.png)
+
 
 
 ## Modelo ER
