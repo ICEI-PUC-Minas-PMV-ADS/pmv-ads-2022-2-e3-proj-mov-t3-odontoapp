@@ -35,32 +35,29 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Como mencionado anteriormente existe a necessidade de uma melhor organização nos ambientes de consulta, afim de que as consultas não sejam perdidas resultando em economia de tempo e custos tanto dos profissionais que prestam o serviço quanto dos clientes que procuram por eles. 
+
+Entendemos que isso por se só viabiliza a proposta da nossa aplicação. Atualmente as consultas são marcadas via telefone ou troca de whatsapp, gerando a falta de controle dos clientes em assumir os compromissos agendados. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A proposta da nossa aplicação visa oferecer um maior controle e organização para os envolvidos na marcação de uma consulta, colaboradores e cliente. 
 
-### Processo 1 – NOME DO PROCESSO
+A aplicação disponibilizará a possibilidade de fazer cadastros de clientes e colaboradores, marcação de consultas e seu cancelamento, calendário com disponibilidade de datas e horários, e esclarecimento de dúvidas.
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Como oportunidade de melhoria podemos destacar a perda de tempo e custos por parte dos envolvidos no processo.
 
-![Processo 1](img/02-bpmn-proc1.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo – AGENDAMENTO DE CONSULTA
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+A seguir apresentamos o modelo de processo de agendamento de consulta, seguindo o padrão BPMN. 
 
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 1](https://user-images.githubusercontent.com/90862748/189537840-b91f62fa-b0b4-470f-b594-42eeb5e509a0.png)
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+![Sem Título-1](https://user-images.githubusercontent.com/62525275/189546406-3b1e374b-1b94-4c15-8192-f1747f7d1d3e.jpg)                            
+                                          
 
 ## Requisitos
 
@@ -120,14 +117,21 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+|         | RF-01 | RF-02 | RF-03 |RF-04|RF-05|RF-06|RF-07|RF-08|RNF-01|RNF-02|RNF-03|RNF-04|RNF-05|
+| ------ | ------ |--------|-------|-------|------|-----|-----|----|-----|----|----|---|------|
+|RF-01   |    x  |        |       |    x     || x ||x|||||x
+|RF-02   |      |  x   |   x     |        ||x||||||||
+|RF-03   |         | x       |  x    |        |x|||||||||
+|RF-04|x|||x||x||x|||||x|
+|RF-05   |         |    x     |   x    |       |  x   |     |   x  |      |      |        |       |      |      |
+|RF-06   | x          |         |         | x       |       |   x   |      |   x  |     |     |    |    |   x |
+|RF-07   |            |         |        |        |  x   |     |  |       |     |      |      |      |   x |    |
+|RF-08| x |   |    |   x   |       |x     |      |x       |   |     |     |    |  x   |
+|RNF-01|||||||||x|||x||
+|RNF-02||||||||||x|x|||||
+RNF-03||||||||||x|x|||||
+RNF-04|||||||||x|||x|||||
+RNF-05|x||x|x|x||x||||||x|
 
 
 # Gerenciamento de Projeto
@@ -138,20 +142,30 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+![Captura de tela 2022-09-11 194630](https://user-images.githubusercontent.com/90941036/189552249-f8c07028-2b91-4ba1-82cf-c09479df6e49.png)
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+![cronograma](https://user-images.githubusercontent.com/90941036/189552251-5cc83c04-e95d-448c-9f88-4f5280e0543c.png)
+
+
 
 ## Gerenciamento de Equipe
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![Captura de tela 2022-09-11 194113](https://user-images.githubusercontent.com/90941036/189552032-897633d1-a03f-4512-aa2a-9f86d89fba0e.png)
+
 
 ## Gestão de Orçamento
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
+|Orçamento||
+|-----|-------|
+|Recursos necessários|R$|
+|Recursos Humanos|260.000|
+|Hardware|32.000|
+|Rede|2.700|
+|Software|26.000|
+|Serviços|5.800|
+|Total|326.500|
