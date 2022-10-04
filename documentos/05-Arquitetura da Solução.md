@@ -4,7 +4,7 @@
 
 Apresentaremos a seguir os detalhes técnicos que tratam dos componentes que fazem parte da solução e do ambiente de hospedagem da solução, criado pela equipe.
 
-![Arquitetura](https://user-images.githubusercontent.com/90941036/193713038-26525531-a1e6-43db-a8b1-08eb99da3910.png)
+![Arquitetura odonto](https://user-images.githubusercontent.com/90941036/193715591-4ab6797f-bc39-42d8-b510-521edfc0c26e.png)
 
 
 ## Diagrama de Classes
