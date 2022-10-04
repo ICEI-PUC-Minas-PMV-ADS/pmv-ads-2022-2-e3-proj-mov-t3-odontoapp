@@ -19,6 +19,8 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
+![modelo odonto](https://user-images.githubusercontent.com/90941036/193715187-a5eb0fcd-2612-4ebc-a166-317f1cbaa3d3.png)
+
 
 ## Esquema Relacional
 
