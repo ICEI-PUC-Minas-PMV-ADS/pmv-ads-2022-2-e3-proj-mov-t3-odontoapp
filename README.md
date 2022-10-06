@@ -13,7 +13,6 @@ O objetivo geral do trabalho é a criação de uma aplicação que possibilite o
 * Bruno Junqueira Benetolo
 * Filipe Marques
 * Gabriel Oliveira
-* Mariana Pimentel
 * Victor Bruno Kulessa
 
 ## Orientador
