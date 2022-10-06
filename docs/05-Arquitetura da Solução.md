@@ -4,7 +4,8 @@
 
 Apresentaremos a seguir os detalhes técnicos que tratam dos componentes que fazem parte da solução e do ambiente de hospedagem da solução, criado pela equipe.
 
-![Arquitetura da Solução](img/02-mob-arch.png)
+![Arquitetura odonto](https://user-images.githubusercontent.com/90941036/193715591-4ab6797f-bc39-42d8-b510-521edfc0c26e.png)
+
 
 ## Diagrama de Classes
 
@@ -16,9 +17,9 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
+![modelo odonto](https://user-images.githubusercontent.com/90941036/193715187-a5eb0fcd-2612-4ebc-a166-317f1cbaa3d3.png)
 
 
 ## Esquema Relacional
