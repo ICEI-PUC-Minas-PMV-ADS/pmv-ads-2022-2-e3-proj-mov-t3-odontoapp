@@ -1,4 +1,4 @@
-# OdontoApp - Cliníca OdontoLife
+# OdontoApp - Clínica iDonto
 
 `Análise e desenvolvimento de sistemas`
 
