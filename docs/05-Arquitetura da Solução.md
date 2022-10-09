@@ -26,8 +26,6 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
 
 ## Modelo Físico
 
@@ -40,7 +38,6 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 -Node JS.
 -CSS.
 -JSON Server.
-
 
 ## Hospedagem
 
