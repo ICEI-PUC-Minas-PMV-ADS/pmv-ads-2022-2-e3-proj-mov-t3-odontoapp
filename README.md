@@ -8,6 +8,10 @@
 
 O objetivo geral do trabalho é a criação de uma aplicação que possibilite o registro, a marcação, o cancelamento, o esclarecimento de dúvidas e o controle de clientes, datas e horários disponíveis para o atendimento de uma clínica especifica, no trabalho desenvolvida, a clínica fictícia OdontoLife.
 
+##Download da aplicação.
+
+Baixe o instalador da aplicação para o sistema Android através do seguinte link: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t3-odontoapp/raw/main/Aplica%C3%A7%C3%A3o/OdontoApp.apk"> Baixar APK</a>
+
 ## Integrantes
 
 * Bruno Junqueira Benetolo
