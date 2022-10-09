@@ -58,4 +58,5 @@ O editor de código foi escolhido porque ele possui uma integração com o siste
 ## Indicadores
 
 A tabela abaixo lista os indicadores e objetivos esperados com a aplicação:
+![Inidicadores](https://user-images.githubusercontent.com/69054000/194773877-c5db6fab-9c81-46ad-9927-b52907bfdd77.png)
 
