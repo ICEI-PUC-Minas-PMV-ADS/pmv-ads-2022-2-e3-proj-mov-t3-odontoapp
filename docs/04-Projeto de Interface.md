@@ -22,6 +22,15 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Link do figma com wireframes]
+**Link do figma com wireframes**
 
 https://www.figma.com/file/Ted46KuZ8DaDYti52QNIER/iDonto?node-id=0%3A1
+
+![1](https://user-images.githubusercontent.com/62525275/194790625-4579aec2-62c9-4a91-b18e-2e5a749d5a80.png)
+
+![2](https://user-images.githubusercontent.com/62525275/194790642-b45de815-d594-457a-ac49-8eb1df5514d5.png)
+
+![3](https://user-images.githubusercontent.com/62525275/194790643-113644ab-3a58-40ad-b609-c0bc7a1b23b7.png)
+
+![4](https://user-images.githubusercontent.com/62525275/194790641-9d594eb2-e884-47de-a5d2-02fb9e2e3861.png)
+
