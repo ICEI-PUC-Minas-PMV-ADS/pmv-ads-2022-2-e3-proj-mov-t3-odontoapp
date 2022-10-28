@@ -5,6 +5,7 @@ import Login from "./views/Login";
 import Home from "./views/Home";
 import RecuperarSenha from "./views/RecuperarSenha";
 import Cadastro from "./views/Cadastro";
+import Reenvio from "./views/Reenvio"
 
 const Stack = createNativeStackNavigator();
 
@@ -18,6 +19,8 @@ export default function Rotas(){
             <Stack.Screen name="Home" component={Home}/>
             <Stack.Screen name="Recuperar Senha" component={RecuperarSenha}/>
             <Stack.Screen name="Cadastro" component={Cadastro}/>
+            <Stack.Screen name="Reenvio" component={Reenvio}/>
+
         </Stack.Navigator>
     );
 }

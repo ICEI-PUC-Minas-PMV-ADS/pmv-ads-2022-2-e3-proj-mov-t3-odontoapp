@@ -1,21 +1,18 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import Rotas from './components/Rotas'
+import { SafeAreaView, StatusBar } from 'react-native';
 
 export default function App() {
   return (
-    <NavigationContainer>
-        <Rotas/>
-    </NavigationContainer>
+    <SafeAreaView style={{
+      flex: 1,
+      backgroundColor: '#199AE2',
+      paddingTop: Platform.OS === 'android' ? StatusBar.currentHeight : 0
+    }}>
+      <NavigationContainer>
+        <Rotas />
+      </NavigationContainer>
+    </SafeAreaView>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});

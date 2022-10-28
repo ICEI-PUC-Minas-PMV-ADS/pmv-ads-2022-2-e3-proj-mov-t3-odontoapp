@@ -1,12 +1,11 @@
 import React from 'react';
 import { View, Text, StyleSheet, TextInput } from 'react-native';
-import DropShadow from "react-native-drop-shadow";
 
-export default function InputForm({ label, placeholder, keyboardType }) {
+export default function InputForm({ label, placeholder, keyboardType, secureTextEntry }) {
     return (
         <View style={styles.container}>
             <Text style={styles.labelInput}>{label}</Text>
-            <TextInput style={styles.inputField} placeholder={placeholder} keyboardType={keyboardType} />
+            <TextInput style={styles.inputField} placeholder={placeholder} keyboardType={keyboardType} secureTextEntry={secureTextEntry}/>
         </View>
     );
 }
