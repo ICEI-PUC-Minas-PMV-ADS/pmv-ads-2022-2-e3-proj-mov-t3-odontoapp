@@ -3,14 +3,14 @@ import { View, Text, StyleSheet, FlatList, TouchableOpacity, ImageBackground } f
 import Icon from 'react-native-vector-icons/Ionicons';
 import Card from '../objects/Card';
 
-export default function Historico({ navigation }) {
+export default function Agendamento({ navigation }) {
     const lista=[
         {
             id: 1,
             nome: 'Fernando Silveira',
             procedimento: 'Obturação',
             tipoConsulta: 'Reavaliação',
-            data: '19-09-2022',
+            data: '19 de setembro - 2022',
             horario: '20:00'
         },
         {
@@ -18,7 +18,7 @@ export default function Historico({ navigation }) {
             nome: 'Bruno Junqueira Benetolo',
             procedimento: 'Canal',
             tipoConsulta: 'Avaliação',
-            data: '19-09-2022',
+            data: '19 de setembro - 2022',
             horario: '20:00'
         },
         {
@@ -26,7 +26,7 @@ export default function Historico({ navigation }) {
             nome: 'Pedro Silva',
             procedimento: 'Limpeza',
             tipoConsulta: 'Execução',
-            data: '19-09-2022',
+            data: '19 de setembro - 2022',
             horario: '20:00'
         },
     ]
@@ -40,7 +40,7 @@ export default function Historico({ navigation }) {
             <View style={styles.header}>
                 <View style={styles.topBar}>
                     <View style={{ width:'20%', flexDirection: 'row', alignItems: 'center', justifyContent:'center'  }}>
-                        <TouchableOpacity style={styles.botao}><Icon name='chevron-back' size={22} /></TouchableOpacity>
+                        <TouchableOpacity style={styles.botao} onPress={()=>{navigation.navigate('Login')}}><Icon name='chevron-back' size={22} /></TouchableOpacity>
                     </View>
                     <View style={{ width:'80%', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-end'}}>
                         <View style={styles.wrpImageUser}>
@@ -65,6 +65,7 @@ export default function Historico({ navigation }) {
             <View style={styles.list}>
 
                 <FlatList 
+                style={{width: '100%'}}
                     data={lista}
                     keyExtractor={(item)=>item.id}
                     renderItem={renderItem}
@@ -132,7 +133,9 @@ const styles = StyleSheet.create({
         flex: .8,
         flexDirection: 'column',
         alignItems: 'center',
-        justifyContent: 'center'
+        justifyContent: 'center',
+        width: '100%',
+        marginLeft: 35
     },
     botaoHeaderList:{
         height: 25,

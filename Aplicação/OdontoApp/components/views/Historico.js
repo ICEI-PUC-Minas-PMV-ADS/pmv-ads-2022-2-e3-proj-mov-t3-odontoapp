@@ -9,7 +9,7 @@ export default function Historico({ navigation }) {
             <View style={styles.header}>
                 <View style={styles.topBar}>
                     <View style={{ width:'20%', flexDirection: 'row', alignItems: 'center', justifyContent:'center'  }}>
-                        <TouchableOpacity style={styles.botao}><Icon name='chevron-back' size={22} /></TouchableOpacity>
+                        <TouchableOpacity style={styles.botao} onPress={()=>{navigation.navigate('Login')}}><Icon name='chevron-back' size={22} /></TouchableOpacity>
                     </View>
                     <View style={{ width:'80%', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-end'}}>
                         <View style={styles.wrpImageUser}>
